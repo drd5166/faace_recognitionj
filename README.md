@@ -67,5 +67,6 @@ This Android app demonstrates real-time face detection. It uses the device camer
 
 - *res/layout/activity_main.xml*  
   UI layout containing PreviewView and overlay views.
-
-
+  
+## Video Demonstration
+https://drive.google.com/file/d/15bpNL2LVgBU6pILCCU7wSlgLxAp3LwWk/view?usp=drive_link
